@@ -1,5 +1,8 @@
 # Adonis fullstack application
 
+![alt text](https://i.ibb.co/Cn7DXf9/auth-adonis-js.png)
+
+
 This is the fullstack boilerplate for AdonisJs, it comes pre-configured with.
 
 1. Bodyparser
